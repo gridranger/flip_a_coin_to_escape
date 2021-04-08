@@ -1,2 +1,2 @@
-# flip_a_coin_to_escape
+# Flip A Coin To Escape
 Python implementation of Coins on a Chessboard riddle.
